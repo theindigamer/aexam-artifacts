@@ -1,0 +1,3 @@
+[submodule "nucleosome-array"]
+	path = nucleosome-array
+	url = ./nucleosome-array
